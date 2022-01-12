@@ -1,5 +1,8 @@
 # Hi, this is emrah!
-A multipotentialite research assistant who is currently working on Ethereum privacy and scalability at NMSU. Besides them, I have a great interest in Cybersecurity and Machine Learning! I love to use these skills to solve challenging research problems.
+
+My interests lie in the intersection of Cryptography and Blockchain, where I have been working to alleviate the scalability, security, and privacy shortcomings of smart contracts and their applications.
+
+![image](https://media.giphy.com/media/W5UoBN0YMdT1QP8Yfr/giphy-downsized-large.gif)
 
 
-![image](https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif)
+
